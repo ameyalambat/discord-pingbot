@@ -1,4 +1,4 @@
-module github.com/ameyalambat128/discord-pingbot
+module github.com/ameyalambat/discord-pingbot
 
 go 1.19
 

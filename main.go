@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/ameyalambat128/discord-pingbot/bot"
-	"github.com/ameyalambat128/discord-pingbot/config"
+	"github.com/ameyalambat/discord-pingbot/bot"
+	"github.com/ameyalambat/discord-pingbot/config"
 )
 
 func main(){

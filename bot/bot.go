@@ -3,7 +3,7 @@ package bot
 import (
 	"fmt"
 
-	"github.com/ameyalambat128/discord-pingbot/config"
+	"github.com/ameyalambat/discord-pingbot/config"
 	"github.com/bwmarrin/discordgo"
 )
 
